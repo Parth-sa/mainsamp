@@ -37,7 +37,7 @@ const IndexPage = () => {
               <div className="hero-content wow fadeInUp" data-wow-delay="0.3s">
                 {/* <span className="tagline">Best Digital Agency</span> */}
                 <h1 className="hero-title">
-                  Digital Solutions Agency For Growth Business
+                  ssss Solutions Agency For Growth Business
                 </h1>
                 <p>
                   {/* Sed ut perspiciatis unde omnis iste natus error sit voluptatem
