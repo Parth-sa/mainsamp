@@ -37,7 +37,7 @@ const IndexPage = () => {
               <div className="hero-content wow fadeInUp" data-wow-delay="0.3s">
                 {/* <span className="tagline">Best Digital Agency</span> */}
                 <h1 className="hero-title">
-                  ssss Solutions Agency For Growth Business
+                  Digital Solutions Agency For Growth Business
                 </h1>
                 <p>
                   {/* Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -240,7 +240,7 @@ const IndexPage = () => {
             <h2 className="title">Services We Provide</h2>
             <span className="tagline">
               Variety of web and mobile app solutions with the latest
-              technologies in one place.
+              technologies in one place
             </span>
           </div>
           <div className="row justify-content-center">

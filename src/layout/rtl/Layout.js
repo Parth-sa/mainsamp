@@ -30,7 +30,7 @@ const RtlLayout = ({ children, noHeader, noFooter }) => {
           type="img/png"
         />
         <title>
-          Qolle - Marketing Agency React Nextjs Template || Digital Agency
+          Samp Technologies - Digital solution for your business
         </title>
         {/* <!--====== Animate Css ======--> */}
         <link rel="stylesheet" href="/assets/css/animate.min.css" />
