@@ -4,13 +4,13 @@ const ContactUs = ({ noIcon, btnClass }) => {
       <h4 className="widget-title">Contact us</h4>
       <div className="contact-content">
         <div className="mb-2">
-          639-640, 6th Floor, Laxmi Enclave 2,
-          <br /> Near Gajera School, Katargam, <br />
+          416 4th floor, Avloan business hub, 
+          <br /> Near ambatalavadi, Katargam, <br />
           Surat, Gujarat, 395004 <br />
         </div>
 
         <div className="phone-number mb-2">
-          <a href="tel:+01234567899">+91 9033906480</a>
+          <a href="tel:+919737235151">+91 9737235151</a>
         </div>
         <a href="mailto:support@Tilkeinfo.com">hr@samptechnologies.com</a>
         <a href="mailto:support@Tilkeinfo.com">support@samptechnologies.com</a>
